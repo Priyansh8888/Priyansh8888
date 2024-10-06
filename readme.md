@@ -50,7 +50,7 @@ _Aug 2023 - April 2024_
 ---
 
 ### ✍️ **Blogs**
-- Posts on **Coins Beach** discussing scalability challenges in emerging technologies.
+- Posts on **Coins Bench** discussing scalability challenges in emerging technologies.
 
 ---
 
